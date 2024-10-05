@@ -5,4 +5,4 @@ node_modules/
 npm-debug.log*
 
 # Ignorar entorno de producción
-.env
+# .env
