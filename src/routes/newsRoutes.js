@@ -10,12 +10,6 @@ const router = express.Router();
  *   get:
  *     summary: Obtiene todas las noticias
  *     parameters:
- *       - name: archive
- *         in: query
- *         required: true
- *         description: Filtra noticias archivadas (true/false)
- *         schema:
- *           type: boolean
  *       - name: page
  *         in: query
  *         required: true
