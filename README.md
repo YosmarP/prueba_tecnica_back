@@ -47,7 +47,7 @@ Se logró una cobertura de pruebas del **89.36%**, garantizando que la mayoría 
 Se implementó una lógica de **paginación** para la carga progresiva de noticias nuevas y archivadas, permitiendo a los usuarios obtener datos de manera eficiente y evitando la sobrecarga de información. La API permite especificar el número de noticias a cargar por página y el número de página.
 
 ### Carga de datos
-Utilización de scrpts para la carga inicial de datos
+Implementación de scripts para la carga inicial de datos.
 
 ### Optimización y Mejores Prácticas
 Se siguieron las **mejores prácticas** en la escritura de código, incluyendo la modularidad y el uso de **linters (ESLint)** para asegurar la calidad del código. Se implementaron pruebas automatizadas para validar la funcionalidad y el rendimiento de la aplicación.
